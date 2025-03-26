@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>harini Mathiyalagan - Portfolio</title>
+    <title>harini - Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -58,7 +58,7 @@
 <body>
 
 <header>
-    <h1>harini Mathiyalagan</h1>
+    <h1>harini</h1>
     <p>An Electronics Engineer</p>
 </header>
 
