@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>harini - Portfolio</title>
+    <title>harini -Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -59,7 +59,7 @@
 
 <header>
     <h1>harini</h1>
-    <p>An Electronics Engineer</p>
+    <p>A Data science  student </p>
 </header>
 
 <nav>
@@ -74,16 +74,15 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            I'm a <strong>cyber security</strong> expert and technology enthusiast passionate about helping 
-            organizations protect their data and create secure online environments. 
-            With over 7 years of experience, I stay up to date with the latest trends in cybersecurity 
+            I'm a <strong>data analyst </strong> expert and technology enthusiast passionate about helping 
+            organizations protect their data and create secure online environments. , I stay up to date with the latest trends in data analyst
             and help others learn about staying safe online.
         </p>
     </section>
 
     <section id="education">
         <h2>Education</h2>
-        <p>Anna University - Electrical & Electronics Engineering</p>
+        <p>Madras University -Computer science  with data science</p>
     </section>
 
     <section id="skills">
